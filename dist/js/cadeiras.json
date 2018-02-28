@@ -227,6 +227,18 @@
     "local": "Sala",
     "ementa": "DD061_SociedadeR_EmpreendendoNegociosInovadoresemDesignnaEconomiaCriativa"
 }, {
+    "code": "DD067",
+    "siga": "Ciência J",
+    "eixo": "ciencia",
+    "name": "Criatividade em Design",
+    "teacher": "Luis Arthur",
+    "ciclo": "Avançado",
+    "vagas": "30",
+    "vagasdd": "30",
+    "vagasout": "0",
+    "local": "Sala",
+    "ementa": ""
+}, {
     "code": "DD069",
     "siga": "Ciência M",
     "eixo": "ciencia",
@@ -238,7 +250,19 @@
     "vagasout": "0",
     "local": "Sala",
     "ementa": ""
-}, {
+},{
+    "code": "DD071",
+    "siga": "Ciência O",
+    "eixo": "ciencia",
+    "name": "Metodologia de Pesquisa em Design",
+    "teacher": "Luiz Arthur",
+    "ciclo": "Avançado",
+    "vagas": "30",
+    "vagasdd": "30",
+    "vagasout": "0",
+    "local": "Sala 4",
+    "ementa": ""
+},{
     "code": "DD072",
     "siga": "Ciência P",
     "eixo": "ciencia",
