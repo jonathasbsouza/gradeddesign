@@ -6,6 +6,8 @@
     "teacher": "Oriana Duarte",
     "ciclo": "Básico",
     "vagas": "40",
+    "vagasdd": "03",
+    "vagasout": "02",
     "local": "Auditório",
     "ementa": ""
 }, {
@@ -16,6 +18,8 @@
     "teacher": "Gisela Leão e Professor Substituto",
     "ciclo": "Básico",
     "vagas": "40",
+    "vagasdd": "03",
+    "vagasout": "02",
     "local": "Auditório",
     "ementa": ""
 }, {
@@ -26,6 +30,8 @@
     "teacher": "Hans Waechter",
     "ciclo": "Básico",
     "vagas": "40",
+    "vagasdd": "03",
+    "vagasout": "02",
     "local": "Auditório",
     "ementa": ""
 }, {
@@ -36,6 +42,8 @@
     "teacher": "Walter Franklin",
     "ciclo": "Básico",
     "vagas": "40",
+    "vagasdd": "03",
+    "vagasout": "02",
     "local": "Auditório",
     "ementa": ""
 }, {
@@ -46,6 +54,8 @@
     "teacher": "Leonardo Castillo e Guilherme Ranoya",
     "ciclo": "Avançado",
     "vagas": "20",
+    "vagasdd": "07",
+    "vagasout": "03",
     "local": "CIn",
     "ementa": ""
 }, {
@@ -56,6 +66,8 @@
     "teacher": "Clarissa Sóter",
     "ciclo": "Intermediário",
     "vagas": "30",
+    "vagasdd": "06",
+    "vagasout": "00",
     "local": "Sala",
     "ementa": "DD006_SociedadeB_ModaeCinema"
 }, {
@@ -66,6 +78,8 @@
     "teacher": "Simone Barros",
     "ciclo": "Intermediário",
     "vagas": "25",
+    "vagasdd": "15",
+    "vagasout": "07",
     "local": "EaD",
     "ementa": "DD008_SociedadeD_ModaEmRevista"
 }, {
@@ -76,6 +90,8 @@
     "teacher": "Clarissa Sóter",
     "ciclo": "Intermediário",
     "vagas": "30",
+    "vagasdd": "0",
+    "vagasout": "0",
     "local": "Sala",
     "ementa": "DD019_TecnologiaA_TecnologiaTextileSuperficieAplicadaaModa"
 }, {
@@ -86,6 +102,8 @@
     "teacher": "Margarida Correia",
     "ciclo": "Intermediário",
     "vagas": "25",
+    "vagasdd": "15",
+    "vagasout": "03",
     "local": "Sala",
     "ementa": "DD021_TecnologiaC_ComunicacaoUrbana"
 }, {
@@ -96,6 +114,8 @@
     "teacher": "Silvio Campello e Guilherme Ranoya",
     "ciclo": "Intermediário",
     "vagas": "25",
+    "vagasdd": "0",
+    "vagasout": "0",
     "local": "Sala",
     "ementa": "DD025_TecnologiaG_HQImpressoeDigital"
 }, {
@@ -106,6 +126,8 @@
     "teacher": "Amilton Arruda e Thamires Silva",
     "ciclo": "Avançado",
     "vagas": "25",
+    "vagasdd": "15",
+    "vagasout": "5",
     "local": "Sala",
     "ementa": "DD027_EsteticaB_DesigndeEmbalagensSustentaveis"
 }, {
@@ -116,6 +138,8 @@
     "teacher": "Solange e Gisela",
     "ciclo": "Avançado",
     "vagas": "30",
+    "vagasdd": "0",
+    "vagasout": "0",
     "local": "Porto Midia",
     "ementa": ""
 }, {
@@ -126,6 +150,8 @@
     "teacher": "Débora Ferro",
     "ciclo": "Obrigatório",
     "vagas": "50",
+    "vagasdd": "?",
+    "vagasout": "0",
     "local": "Sala",
     "ementa": ""
 }, {
@@ -136,6 +162,8 @@
     "teacher": "Isabella Aragão",
     "ciclo": "Obrigatório",
     "vagas": "50",
+    "vagasdd": "6",
+    "vagasout": "0",
     "local": "Sala",
     "ementa": ""
 }, {
@@ -146,6 +174,8 @@
     "teacher": "Hans Waechter",
     "ciclo": "Intermediário",
     "vagas": "25",
+    "vagasdd": "0",
+    "vagasout": "0",
     "local": "Auditório",
     "ementa": "DD053_SociedadeI_DesigndePostereseCartazes"
 }, {
@@ -156,6 +186,8 @@
     "teacher": "Ana Emília",
     "ciclo": "Intermediário",
     "vagas": "25",
+    "vagasdd": "15",
+    "vagasout": "7",
     "local": "Sala",
     "ementa": ""
 }, {
@@ -166,6 +198,8 @@
     "teacher": "André Neves",
     "ciclo": "Intermediário",
     "vagas": "30",
+    "vagasdd": "0",
+    "vagasout": "0",
     "local": "EaD",
     "ementa": "DD056_SociedadeM_DesigndeJogos"
 }, {
@@ -176,6 +210,8 @@
     "teacher": "Kátia Araújo",
     "ciclo": "Avançado",
     "vagas": "25",
+    "vagasdd": "13",
+    "vagasout": "0",
     "local": "Sala",
     "ementa": "DD058_SociedadeO_DesigneAntropologia"
 }, {
@@ -186,6 +222,8 @@
     "teacher": "Paulo Silva",
     "ciclo": "Intermediário",
     "vagas": "30",
+    "vagasdd": "14",
+    "vagasout": "0",
     "local": "Sala",
     "ementa": "DD061_SociedadeR_EmpreendendoNegociosInovadoresemDesignnaEconomiaCriativa"
 }, {
@@ -196,6 +234,8 @@
     "teacher": "Gisela Leão",
     "ciclo": "Intermediário",
     "vagas": "25",
+    "vagasdd": "03",
+    "vagasout": "0",
     "local": "Sala",
     "ementa": ""
 }, {
@@ -206,6 +246,8 @@
     "teacher": "Laura Bezerra",
     "ciclo": "Intermediário",
     "vagas": "25",
+    "vagasdd": "02",
+    "vagasout": "0",
     "local": "Sala",
     "ementa": ""
 }, {
@@ -216,6 +258,8 @@
     "teacher": "Adailton Laporte",
     "ciclo": "Básico",
     "vagas": "30",
+    "vagasdd": "0",
+    "vagasout": "0",
     "local": "Sala",
     "ementa": "DD073_CienciaQ_MetodologiaeDesenvolvimentodeProduto"
 }, {
@@ -226,6 +270,8 @@
     "teacher": "Adailton Laporte",
     "ciclo": "Intermediário",
     "vagas": "30",
+    "vagasdd": "0",
+    "vagasout": "0",
     "local": "Sala",
     "ementa": ""
 }, {
@@ -236,6 +282,8 @@
     "teacher": "Paulo Silva",
     "ciclo": "Intermediário",
     "vagas": "25",
+    "vagasdd": "11",
+    "vagasout": "0",
     "local": "Sala",
     "ementa": "DD084_TecnologiaO_MateriaiseProcessos"
 }, {
@@ -246,6 +294,8 @@
     "teacher": "Leonardo Castillo",
     "ciclo": "Intermediário",
     "vagas": "25",
+    "vagasdd": "07",
+    "vagasout": "02",
     "local": "Sala",
     "ementa": ""
 }, {
@@ -256,6 +306,8 @@
     "teacher": "Guilherme Ranoya",
     "ciclo": "Intermediário",
     "vagas": "25",
+    "vagasdd": "02",
+    "vagasout": "0",
     "local": "Sala",
     "ementa": "DD087_TecnologiaR_DesignDigital"
 }, {
@@ -266,6 +318,8 @@
     "teacher": "Gentil Filho",
     "ciclo": "Intermediário",
     "vagas": "25",
+    "vagasdd": "23",
+    "vagasout": "0",
     "local": "Sala",
     "ementa": "DD092_EsteticaH_PlaygroundPraticasdeEspaco"
 }, {
@@ -276,6 +330,8 @@
     "teacher": "Neide Câmara",
     "ciclo": "Intermediário",
     "vagas": "25",
+    "vagasdd": "07",
+    "vagasout": "0",
     "local": "Sala",
     "ementa": "DD093_EsteticaI_PlanejamentodeEmbalagem"
 }, {
@@ -286,6 +342,8 @@
     "teacher": "Isabella Aragão",
     "ciclo": "Intermediário",
     "vagas": "25",
+    "vagasdd": "0",
+    "vagasout": "0",
     "local": "Sala",
     "ementa": "DD094_EsteticaJ_DesignComTipos"
 }, {
@@ -296,6 +354,8 @@
     "teacher": "Amilton Arruda",
     "ciclo": "Avançado",
     "vagas": "25",
+    "vagasdd": "15",
+    "vagasout": "9",
     "local": "Sala",
     "ementa": ""
 }, {
@@ -306,6 +366,8 @@
     "teacher": "Neide Câmara",
     "ciclo": "Básico",
     "vagas": "25",
+    "vagasdd": "05",
+    "vagasout": "00",
     "local": "Sala",
     "ementa": "DD096_EsteticaM_IdentidadeVisual"
 }, {
@@ -316,6 +378,8 @@
     "teacher": "Hans Waechter",
     "ciclo": "Básico",
     "vagas": "25",
+    "vagasdd": "0",
+    "vagasout": "0",
     "local": "Sala",
     "ementa": "DD101_EsteticaR_MetodologiaVisual"
 }, {
@@ -326,6 +390,8 @@
     "teacher": "Margarida Correia",
     "ciclo": "Intermediário",
     "vagas": "25",
+    "vagasdd": "15",
+    "vagasout": "06",
     "local": "Sala",
     "ementa": "DD102_EsteticaS_LinguagemdasCores"
 }, {
@@ -336,6 +402,8 @@
     "teacher": "Simone Barros",
     "ciclo": "Básico",
     "vagas": "25",
+    "vagasdd": "05",
+    "vagasout": "04",
     "local": "EaD",
     "ementa": "DD106_CienciaK_ComunicacaoeModa"
 }, {
@@ -346,6 +414,8 @@
     "teacher": "Sílvio Campello",
     "ciclo": "Intermediário",
     "vagas": "25",
+    "vagasdd": "0",
+    "vagasout": "0",
     "local": "Sala",
     "ementa": "DD109_SociedadeK_ArtefatosNarrativos"
 }, {
@@ -356,6 +426,8 @@
     "teacher": "Laura Bezerra",
     "ciclo": "Avançado",
     "vagas": "30",
+    "vagasdd": "15",
+    "vagasout": "8",
     "local": "Sala",
     "ementa": ""
 }, {
@@ -366,6 +438,8 @@
     "teacher": "André Neves",
     "ciclo": "Intermediário",
     "vagas": "30",
+    "vagasdd": "0",
+    "vagasout": "0",
     "local": "EaD",
     "ementa": "DD123_CienciaW_DesignComoPensamento"
 }, {
@@ -376,6 +450,8 @@
     "teacher": "Solange Coutinho e Silvio Campello",
     "ciclo": "Intermediário",
     "vagas": "20",
+    "vagasdd": "0",
+    "vagasout": "0",
     "local": "Sala",
     "ementa": ""
 }, {
@@ -386,6 +462,8 @@
     "teacher": "Ana Andrade",
     "ciclo": "Intermediário",
     "vagas": "25",
+    "vagasdd": "11",
+    "vagasout": "05",
     "local": "Sala",
     "ementa": "DD128_TecnologiaV_DesigndeMediaComplexidade"
 }, {
@@ -396,6 +474,8 @@
     "teacher": "Ana Andrade",
     "ciclo": "Básico",
     "vagas": "25",
+    "vagasdd": "02",
+    "vagasout": "00",
     "local": "Sala",
     "ementa": "DD129_TecnologiaW_DesigndeBaixaComplexidade"
 }, {
@@ -406,6 +486,8 @@
     "teacher": "Sílvio Campello",
     "ciclo": "Intermediário",
     "vagas": "25",
+    "vagasdd": "0",
+    "vagasout": "0",
     "local": "Sala",
     "ementa": "DD109_SociedadeK_ArtefatosNarrativos"
 }, {
@@ -416,6 +498,8 @@
     "teacher": "Ana Emília",
     "ciclo": "Intermediário",
     "vagas": "28",
+    "vagasdd": "15",
+    "vagasout": "09",
     "local": "Sala",
     "ementa": ""
 }]

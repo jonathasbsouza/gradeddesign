@@ -17,6 +17,7 @@ window.onload = function () {
 
 }
 
+/* 
 function getDisciplina(data) {
   if(data.ementa !== ""){
     return `<div class="grupo ${data.eixo}">
@@ -45,6 +46,37 @@ function getDisciplina(data) {
                 <p class="ciclo">${data.ciclo}</p>
                 <p class="vagas">${data.vagas} vagas</p>
                 <p class="local">${data.local}</p>
+                </div>
+            </div>`;
+}
+}
+
+*/
+
+function getDisciplina(data) {
+  if(data.ementa !== ""){
+    return `<div class="grupo ${data.eixo}">
+                <div class="codigo">
+                    <span>${data.code}</span><span>${data.siga}</span>
+                </div>
+                <div class="conteudo">
+                    <h4>${data.name}</h4>
+                    <p class="professor">${data.teacher}</p>
+                    <p class="vagas">${data.vagasdd} vagas (dDesign)<br> ${data.vagasout} vagas (Outros)</p>
+                    <a href="ementas/${data.ementa}.pdf" target="_blank">
+                        <button>Ementa</button>
+                    </a>
+                </div>
+            </div>`;
+} else {
+    return `<div class="grupo ${data.eixo}">
+                <div class="codigo">
+                    <span>${data.code}</span><span>${data.siga}</span>
+                </div>
+                <div class="conteudo">
+                <h4>${data.name}</h4>
+                <p class="professor">${data.teacher}</p>
+                <p class="vagas">${data.vagasdd} vagas (dDesign)<br> ${data.vagasout} vagas (Outros)</p>
                 </div>
             </div>`;
 }

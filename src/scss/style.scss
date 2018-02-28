@@ -190,6 +190,10 @@ from http://epic-spinners.epicmax.co/ */
 
 /* Grupo de Estudo - Elementos */
 
+    .novacancy {
+        opacity: 0.3;
+    }
+    
     .grupo {
         margin-bottom: 12px;
         @include border-radius(5px);
@@ -250,6 +254,10 @@ from http://epic-spinners.epicmax.co/ */
         font-weight: 700;
         margin-top: 10px;
         font-size: calc(#{$sizebody} * 1.1);
+    }
+
+    p.vagas {
+        margin-top: 10px;
     }
 
     a {
