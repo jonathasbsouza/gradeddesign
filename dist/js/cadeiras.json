@@ -231,13 +231,13 @@
     "siga": "Ciência J",
     "eixo": "ciencia",
     "name": "Criatividade em Design",
-    "teacher": "Luis Arthur",
+    "teacher": "Luis Vasconcelos",
     "ciclo": "Avançado",
     "vagas": "30",
     "vagasdd": "30",
     "vagasout": "0",
     "local": "Sala",
-    "ementa": ""
+    "ementa": "DD067_CienciaJ"
 }, {
     "code": "DD069",
     "siga": "Ciência M",
@@ -255,13 +255,13 @@
     "siga": "Ciência O",
     "eixo": "ciencia",
     "name": "Metodologia de Pesquisa em Design",
-    "teacher": "Luiz Arthur",
+    "teacher": "Luis Vasconcelos",
     "ciclo": "Avançado",
     "vagas": "30",
     "vagasdd": "30",
     "vagasout": "0",
     "local": "Sala 4",
-    "ementa": ""
+    "ementa": "DD071_CienciaO"
 },{
     "code": "DD072",
     "siga": "Ciência P",
