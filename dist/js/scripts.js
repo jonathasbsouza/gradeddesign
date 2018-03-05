@@ -62,6 +62,7 @@ function getDisciplina(data) {
                 <div class="conteudo">
                     <h4>${data.name}</h4>
                     <p class="professor">${data.teacher}</p>
+                    <p class="ciclo">${data.ciclo}</p>
                     <p class="vagas">${data.vagasdd} vagas (dDesign)<br> ${data.vagasout} vagas (Outros)</p>
                     <a href="ementas/${data.ementa}.pdf" target="_blank">
                         <button>Ementa</button>
@@ -76,6 +77,7 @@ function getDisciplina(data) {
                 <div class="conteudo">
                 <h4>${data.name}</h4>
                 <p class="professor">${data.teacher}</p>
+                <p class="ciclo">${data.ciclo}</p>
                 <p class="vagas">${data.vagasdd} vagas (dDesign)<br> ${data.vagasout} vagas (Outros)</p>
                 </div>
             </div>`;
